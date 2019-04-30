@@ -44,9 +44,11 @@ The selection should be topic-based, such that e.g. high-resolution measurement 
 
 ## Candidates
 
+* shared folders and rsync
 * [IPFS](https://ipfs.io/)
 * [Perkeep](https://perkeep.org)
 * [Dat](https://datproject.org/)
+* git
 
 ### Comparison of Dat and IPFS
 
