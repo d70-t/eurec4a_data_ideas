@@ -38,6 +38,10 @@ Possible solutions to avoid conflicts are:
 Does the system have to be strongly private?
 Is it enough to have unknown, but in priciple public links?
 
+Some sites might have severly limited and / or costly internet connections (i.e. satellite links).
+In order to cope with that situation, it should be possible to selectively synchronize only parts of all data over specific links.
+The selection should be topic-based, such that e.g. high-resolution measurement data might be ommitted while quicklooks are being synchronized.
+
 ## Candidates
 
 * [IPFS](https://ipfs.io/)
