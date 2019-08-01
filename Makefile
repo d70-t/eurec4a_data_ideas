@@ -1,4 +1,4 @@
-all:  data_distribution_design.pdf
+all:  README.pdf data_distribution_design.pdf user_stories.pdf boundary_conditions.pdf solutions.pdf
 .PHONY: all
 
 %.pdf: %.md
